@@ -2384,3 +2384,6 @@ body {
   color: #ffbb2c !important;
   font-size:18px;
 }
+.error{
+  color:'red'
+}
