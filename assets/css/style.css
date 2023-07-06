@@ -2330,7 +2330,12 @@ body {
   border-radius:8px !important;
 }
 .HomeCards .card-body{
-  background-color:rgb(204 155 47) !important;
+  background-color:#00639e !important;
+  color: #f8f9fa;
+  font-weight: 500;
+}
+.cabCard .card-body{
+  background-color:#00639e !important;
   color: #f8f9fa;
   font-weight: 500;
 }
@@ -2359,11 +2364,14 @@ body {
   color:white;
 }
 .bgColor{
-  background-color:rgb(204 155 47) !important;
+  
+  padding-left: 20px !important;
+    padding-right: 40px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  background-color:#00639e !important;
     font-size: 16px !important;
-    padding: 10px !important;
     color: white;
-    border-radius: 5px 5px 0px 0px;
 }
 .form-label{
   color:black;
@@ -2386,4 +2394,39 @@ body {
 }
 .error{
   color:'red'
+}
+.header-detail{
+  float: left; 
+  margin-top: 0.5em;
+}
+.header-detail ul li{
+  font-size: 1em;
+    margin: 0 0.5em;
+    display: inline-block;
+    color: #f83e06;
+}
+
+.header-detail ul li a{
+  font-size: 1em;
+    margin: 0 0.5em;
+    display: inline-block;
+    color: #fb9a02;
+}
+
+.header-detail-r {
+  float: right; 
+  margin-top: 0.5em;
+}
+.header-detail-r ul li{
+  font-size: 1em;
+    margin: 0 0.5em;
+    display: inline-block;
+    color: #f83e06;
+}
+
+.header-detail-r ul li a{
+  font-size: 1em;
+    margin: 0 0.5em;
+    display: inline-block;
+    color: #fb9a02;
 }
