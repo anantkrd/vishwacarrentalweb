@@ -2430,3 +2430,10 @@ body {
     display: inline-block;
     color: #fb9a02;
 }
+.css-1rpz77w{
+  margin: auto !important;
+    display: flex !important;
+    width: 100px !important;
+    height: 100px !important;
+    border-Color: red !important;
+}
