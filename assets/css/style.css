@@ -2437,3 +2437,16 @@ body {
     height: 100px !important;
     border-Color: red !important;
 }
+.top-icon{
+  font-size: 1em;
+    margin: 0 0.5em;
+    display: inline-block;
+    color: #f83e06;
+}
+
+.header-detail-r .top-icon{
+  font-size: 1em;
+    margin: 0 0.5em;
+    display: inline-block;
+    color: #fb9a02;
+}
